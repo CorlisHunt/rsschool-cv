@@ -1,1 +1,1 @@
-# [CV](https://CorlisHunt.github.io/rsschool-cv/cv)
+# [CV-2](https://CorlisHunt.github.io/rsschool-cv/)
