@@ -1,0 +1,86 @@
+html, body {
+  font-family: Arial, serif;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+}
+table.border td, table.border th {
+  padding: 5px;
+  border: 1px solid #c0c0c0;
+}
+table.border th {
+  background: #e0e0e0;
+}
+
+.main_pages {
+  width: 1000px;
+  margin: 20px auto;
+  box-shadow: 10px 10px 40px -1px #c0c0c0;
+  background-color: #ffffff;
+  /* border: 1px solid black; */
+  padding: 10px;
+}
+
+.avatar {
+  padding: 20px;
+  text-align: center;
+  background-color: #c0c0c0;
+  border: 1px solid black;
+}
+
+.name {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.head {
+  font-size: 30;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.contacts {
+  padding: 20px;
+}
+
+.list_1 {
+  padding: 5px;
+  font-size: 18px;
+}
+
+.l1 {
+  font-weight: bold;
+}
+
+.about_me {
+  padding: 20px;
+}
+
+.skils {
+  padding: 20px;
+
+}
+
+.code_exsample {
+  text-align: center;
+}
+
+.code {
+  background-color: #dfdddd;
+  padding: 20px;
+  border: 1px solid black;
+  box-shadow: 10px 10px 40px -1px #c0c0c0;
+}
+
+.footer_case {
+  text-align:right;
+  /* background-color: #c0c0c0; */
+  text-decoration: none;
+}
+
+.am {
+  margin-left: 3%;
+}
